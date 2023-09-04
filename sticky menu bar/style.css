@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+}
+#header{
+    text-align: center;
+}
+#logo{
+    width: 250px;
+    height: auto;
+}
+#menu-bar{
+    text-align: center;
+    background-color: cadetblue;
+}
+#menu-bar li{
+    display: inline-block;
+    padding: 15px 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+#conatiner{
+    text-align: center;
+    /* background-color: white; */
+    padding: 50px 100px;
+
+}
+#about-img{
+    width: 100%;
+    height: 800px;
+
+}
